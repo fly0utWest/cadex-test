@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-router-dom": "^6.27.0",
+    "react-youtube": "^10.1.0"
+  },
+  "devDependencies": {
+    "@types/react-youtube": "^7.10.0"
+  }
+}
